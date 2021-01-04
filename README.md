@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Juan Camilo Rico Orjuela</h1>
+<h1 align="center">Hi 👋, I'm Juanca</h1>
 <p align="center">
-  A passionate web developer from Colombia. With over 5 years of experience in technical support and 1 year in software development. Counting with experience in software planning and implementation.
+  A passionate web developer from Colombia, with over five years of experience in the software industry. Counting with experience in software planning and implementation.
+  When I'm not playing guitar or cooking, I enjoy coding and digging into technology.
 </p>
 
 <p align="center">
