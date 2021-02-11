@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/juancaricodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juancaricodev" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **Redux, NodeJS, Angular, MongoDB, PostCSS.**
+- 🌱 I’m currently learning **Redux, NodeJS, Vue.js, MongoDB, PostCSS.**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS.**
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juancaricodev&theme=dracula&show_icons=true&locale=en&count_private=true&hide=stylus,shell" alt="juancaricodev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juancaricodev&theme=dracula&show_icons=true&locale=en&count_private=true&hide=stylus,shell,vue" alt="juancaricodev" />
 <!--   &nbsp; -->
   <img src="https://github-readme-stats.vercel.app/api?username=juancaricodev&theme=dracula&show_icons=true&locale=en&line_height=27" alt="juancaricodev" />
 </p>
