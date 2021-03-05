@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/juancaricodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juancaricodev" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **Redux, NodeJS, Vue.js, MongoDB, PostCSS.**
+- 🌱 I’m currently learning **Redux, NodeJS, Vue.js, MongoDB, Jest.**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS.**
 
