@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **juancaricodev@gmail.com**
 
-<!-- This is a single-line comment --> - 📄 Know about my experiences in my [CV](https://github.com/juancaricodev/cv/blob/main/cv.pdf)
+- 📄 Know about my experiences in my [CV](https://github.com/juancaricodev/cv/blob/main/cv.pdf)
 
 
 
