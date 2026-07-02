@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Juanca</h1>
-<p align="center">
-  Frontend Developer with 4+ years of experience building intuitive, high-performance web applications. Specialized in the React ecosystem (React, JavaScript, TypeScript, Node.js), with a strong focus on scalable, maintainable UI architecture.
+<p>
+Software Engineer with 4+ years of experience building web products at scale at Mercado Libre.
+My background combines a strong Frontend focus (React, TypeScript, Next.js, SSR micro-frontends) with hands-on experience in Backend (REST APIs with Node.js, Go, and Java), analytics (Looker, Tableau), and production infrastructure (DataDog, New Relic, CI/CD).
+
+  Currently deepening my expertise in full-stack development through hands-on projects with Next.js, NestJS, and AWS — focusing on real architecture, CI/CD, and best practices.
 </p>
 
 <p align="center">
 <!-- <a href="https://dev.to/juancaricodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="juancaricodev" height="30" width="40" /></a> -->
 <!-- <a href="https://twitter.com/juancaricodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juancaricodev" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/juancaricodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juancaricodev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juancaricodev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="juancaricodev" height="30" width="40" /></a>
 </p>
 
 - 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, ReactJS, NextJS, NodeJS.**
